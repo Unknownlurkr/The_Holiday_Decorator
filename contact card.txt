@@ -1,0 +1,15 @@
+<div class="card">
+    <img src="img/sunset.jpg" alt="John" style="width:100%">
+    <h1>The Holiday Decorator TC Inc.</h1>
+    <p class="title">Please give us a call or email if you would like to discuss your parking lot
+
+ 
+
+416 845 8078
+
+theholidaydecorator@yahoo.com</p>
+    <p>Social Media</p>
+    <a href="#"><i class="fa fa-facebook"></i></a>
+    <a href="#"><i class="fa fa-instagram"></i></a>
+    <p><button>Contact</button></p>
+  </div>
